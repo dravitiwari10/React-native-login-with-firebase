@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873483554571",
+    "project_id": "fir-auth-7b037",
+    "storage_bucket": "fir-auth-7b037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873483554571:android:afcb3e258f25c7d2eedc0e",
+        "android_client_info": {
+          "package_name": "com.socialApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873483554571-g872q4o8rp1dm8a4d4kgnsovtpbgmp4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCdfy85Of5TfScTLBdH0dWlev1Ief4VHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873483554571-g872q4o8rp1dm8a4d4kgnsovtpbgmp4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
